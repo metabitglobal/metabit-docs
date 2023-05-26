@@ -44,7 +44,7 @@ Example of how to propose a new validator (`0x8B15464F8233F718c8605B16eBADA6fc09
 metabit_chain ibft propose --grpc-address 127.0.0.1:10000 --addr 0x8B15464F8233F718c8605B16eBADA6fc09181fC2 --bls 0x9952735ca14734955e114a62e4c26a90bce42b4627a393418372968fa36e73a0ef8db68bba11ea967ff883e429b3bfdf --vote auth
 ````
 
-The structure of the IBFT commands is covered in the [CLI Commands](/docs/edge/get-started/cli-commands) section.
+The structure of the IBFT commands is covered in the [CLI Commands](https://github.com/metabitglobal/metabit-docs/blob/main/archive/chain/get-started/cli-commands.md) section.
 
 :::info BLS public key
 BLS public key is only necessary if the network is running with the BLS, for the network not running in BLS mode `--bls` is unnecessary
