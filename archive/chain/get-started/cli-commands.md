@@ -10,9 +10,6 @@ keywords:
   - commands
   - flags
 ---
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 
 This section details the present commands, command flags in the Metabit Chain, and how they're used.
 
