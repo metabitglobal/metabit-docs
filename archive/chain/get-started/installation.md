@@ -18,7 +18,7 @@ Our recommendation is to use the pre-built releases and verify the provided chec
 
 Please refer to the [GitHub Releases](https://github.com/metabitglobal/metabit_chain) page for a list of releases.
 
-Polygon Edge comes with cross-compiled AMD64/ARM64 binaries for Darwin and Linux.
+Metabit Chain comes with cross-compiled AMD64/ARM64 binaries for Darwin and Linux.
 
 ---
 
